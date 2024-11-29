@@ -1,5 +1,6 @@
 import svaghi from "./modul/seconda-funzione.js";
 import identity from "./modul/prima-funzione.js";
+import chalk from "chalk";
 
 // console.log(svaghi("playstation", "palestra", "cinema"));
 // console.log(identity("uno", "due"))
@@ -17,4 +18,4 @@ const myFunction = () => {
     }
 
 
-console.log(myFunction());
+console.log(chalk.bgRed(myFunction()));

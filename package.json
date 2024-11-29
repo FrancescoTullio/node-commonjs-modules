@@ -9,9 +9,11 @@
     "dev": "node --watch ./js/modul/prima-funzione.js",
     "dev2": "node --watch ./js/modul/seconda-funzione.js",
     "dev3": "node --watch ./js/script.js"
-
   },
   "author": "francesco tullio",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
 }
