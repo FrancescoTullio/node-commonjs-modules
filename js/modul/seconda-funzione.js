@@ -10,3 +10,5 @@ const svaghi = (hobbyOne, hobbyTwo, hobbyThree) => {
 }
 
 console.log(svaghi("playstation", "palestra", "cinema"));
+
+export default svaghi;
