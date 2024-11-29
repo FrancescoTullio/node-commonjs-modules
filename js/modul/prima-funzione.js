@@ -1,5 +1,5 @@
 
-console.log("ciao")
+// console.log("ciao")
 
 // const uno = "francesco";
 // const due ="tullio"
@@ -17,4 +17,6 @@ const identity = (name, surname) => {
 
 // console.log(result)
 
-console.log(identity("uno", "due"))
+// console.log(identity("uno", "due"))
+
+export default identity;

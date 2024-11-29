@@ -1,4 +1,4 @@
-console.log("ciao")
+// console.log("ciao")
 
 
 
@@ -9,6 +9,6 @@ const svaghi = (hobbyOne, hobbyTwo, hobbyThree) => {
     return obgect
 }
 
-console.log(svaghi("playstation", "palestra", "cinema"));
+// console.log(svaghi("playstation", "palestra", "cinema"));
 
 export default svaghi;
