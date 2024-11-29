@@ -1,0 +1,12 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./js/modul/prima-funzione.js",
+    "dev": "node --watch ./js/modul/prima-funzione.js"
+  },
+  "author": "francesco tullio",
+  "license": "ISC",
+  "description": ""
+}
